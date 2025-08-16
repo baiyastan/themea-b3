@@ -1,0 +1,14 @@
+.card {
+    width: 240px;
+    height: 271px;
+    font-size: 16px;
+    color: #f4722b;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+}
+
+.card img {
+    width: 205px;
+    height: 205px;
+    cursor: pointer;
+}
